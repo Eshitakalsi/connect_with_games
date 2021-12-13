@@ -3,6 +3,8 @@ import 'package:connect_with_games/Widgets/Chat/chatItem.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 
+import 'HypertrackScreen.dart';
+
 class ChatScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -15,6 +17,13 @@ class ChatScreen extends StatelessWidget {
         backgroundColor: Color.fromRGBO(255, 255, 255, 1),
         elevation: 0,
       ),
+      floatingActionButton: FloatingActionButton(
+          backgroundColor: Color.fromRGBO(55, 55, 55, 1),
+          onPressed: () {
+            Navigator.of(context).push(
+                MaterialPageRoute(builder: (ctx) => HyperTrackQuickStart()));
+          },
+          child: Icon(Icons.location_on)),
       body: StreamBuilder(
         stream: FirebaseFirestore.instance.collection('Chats').snapshots(),
         builder: (ctx, chatSnapshot) {

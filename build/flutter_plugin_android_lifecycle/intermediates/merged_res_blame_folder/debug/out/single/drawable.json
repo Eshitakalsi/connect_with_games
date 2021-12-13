@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/eshitakalsi/Desktop/JustDev/connect_with_games/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/39d921845324917a2757bbe4714039dc/core-1.1.0/res/drawable/notification_bg.xml"
+        "merged": "F:\\Flutter\\connect_with_games\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\e9a3889c5858d6eca2bc3851da9da380\\core-1.1.0\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/Users/eshitakalsi/Desktop/JustDev/connect_with_games/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/39d921845324917a2757bbe4714039dc/core-1.1.0/res/drawable/notification_bg_low.xml"
+        "merged": "F:\\Flutter\\connect_with_games\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\e9a3889c5858d6eca2bc3851da9da380\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/Users/eshitakalsi/Desktop/JustDev/connect_with_games/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/39d921845324917a2757bbe4714039dc/core-1.1.0/res/drawable/notification_tile_bg.xml"
+        "merged": "F:\\Flutter\\connect_with_games\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\e9a3889c5858d6eca2bc3851da9da380\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "/Users/eshitakalsi/Desktop/JustDev/connect_with_games/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/39d921845324917a2757bbe4714039dc/core-1.1.0/res/drawable/notification_icon_background.xml"
+        "merged": "F:\\Flutter\\connect_with_games\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\e9a3889c5858d6eca2bc3851da9da380\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
     }
 ]

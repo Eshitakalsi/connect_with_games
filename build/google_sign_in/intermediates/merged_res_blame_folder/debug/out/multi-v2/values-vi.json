@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/eshitakalsi/Desktop/JustDev/connect_with_games/build/google_sign_in/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
+            "outputFile": "F:\\Flutter\\connect_with_games\\build\\google_sign_in\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
             "map": [
                 {
-                    "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/84d12757abc42fd18aaf3d09c130db94/jetified-play-services-basement-16.0.1/res/values-vi/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "194",
-                        "endOffsets": "441"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1285",
-                        "endColumns": "194",
-                        "endOffsets": "1475"
-                    }
-                },
-                {
-                    "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/39d921845324917a2757bbe4714039dc/core-1.1.0/res/values-vi/values-vi.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\e9a3889c5858d6eca2bc3851da9da380\\core-1.1.0\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/dd1e4cea89294a3321c058c723a97b33/jetified-play-services-base-16.0.1/res/values-vi/values.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\bc124e35ddbc56b470707ff6dac61fc1\\jetified-play-services-basement-16.0.1\\res\\values-vi\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "194",
+                        "endOffsets": "441"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1285",
+                        "endColumns": "194",
+                        "endOffsets": "1475"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\6c4150f6756b0b8bf33f7db2bced8b8c\\jetified-play-services-base-16.0.1\\res\\values-vi\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -57,27 +57,10 @@
             ]
         },
         {
-            "outputFile": "/Users/eshitakalsi/Desktop/JustDev/connect_with_games/build/google_sign_in/intermediates/res/merged/debug/values-vi/values-vi.xml",
+            "outputFile": "F:\\Flutter\\connect_with_games\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\values-vi\\values-vi.xml",
             "map": [
                 {
-                    "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/84d12757abc42fd18aaf3d09c130db94/jetified-play-services-basement-16.0.1/res/values-vi/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "194",
-                        "endOffsets": "441"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1285",
-                        "endColumns": "194",
-                        "endOffsets": "1475"
-                    }
-                },
-                {
-                    "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/39d921845324917a2757bbe4714039dc/core-1.1.0/res/values-vi/values-vi.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\e9a3889c5858d6eca2bc3851da9da380\\core-1.1.0\\res\\values-vi\\values-vi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -94,7 +77,24 @@
                     }
                 },
                 {
-                    "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/dd1e4cea89294a3321c058c723a97b33/jetified-play-services-base-16.0.1/res/values-vi/values.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\bc124e35ddbc56b470707ff6dac61fc1\\jetified-play-services-basement-16.0.1\\res\\values-vi\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "194",
+                        "endOffsets": "441"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1285",
+                        "endColumns": "194",
+                        "endOffsets": "1475"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\6c4150f6756b0b8bf33f7db2bced8b8c\\jetified-play-services-base-16.0.1\\res\\values-vi\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

@@ -19,6 +19,7 @@ import './commons/theme.dart';
 import 'Providers/Auth.dart';
 
 import 'Screens/AddGameScreen.dart';
+import 'Screens/HypertrackScreen.dart';
 import 'Screens/SplashScreen.dart';
 
 Future<void> main() async {
@@ -120,6 +121,7 @@ class MyApp extends StatelessWidget {
           UserGamesScreen.routeName: (ctx) => UserGamesScreen(),
           ProfileScreen.routeName: (ctx) => ProfileScreen(),
           AboutScreen.routeName: (ctx) => AboutScreen(),
+          HyperTrackQuickStart.routeName: (ctx) => HyperTrackQuickStart(),
         },
       ),
     );

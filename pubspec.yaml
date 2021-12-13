@@ -52,6 +52,8 @@ dependencies:
   simple_animations: ^4.0.1
   carousel_slider: ^4.0.0
   animate_do: ^2.0.0
+  hypertrack_plugin: ^0.2.1
+  share: ^2.0.4
 
 
 
