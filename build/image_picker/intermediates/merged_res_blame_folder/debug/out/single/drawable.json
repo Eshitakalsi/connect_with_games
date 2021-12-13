@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/eshitakalsi/Desktop/JustDev/connect_with_games/build/image_picker/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/39d921845324917a2757bbe4714039dc/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/eshitakalsi/Desktop/JustDev/connect_with_games/build/image_picker/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/39d921845324917a2757bbe4714039dc/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/eshitakalsi/Desktop/JustDev/connect_with_games/build/image_picker/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/39d921845324917a2757bbe4714039dc/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/eshitakalsi/Desktop/JustDev/connect_with_games/build/image_picker/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/39d921845324917a2757bbe4714039dc/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    }
+]

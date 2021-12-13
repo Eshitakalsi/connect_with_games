@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">332375240631-31v1rd7j05tb0jm3mgve57p9m9bkninh.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">332375240631</string>
+    <string name="google_api_key" translatable="false">AIzaSyC17pbzQSL_Qx8a_DkgPqvaxKJyjBjW1Jg</string>
+    <string name="google_app_id" translatable="false">1:332375240631:android:8010d6f4665fda3ef34232</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC17pbzQSL_Qx8a_DkgPqvaxKJyjBjW1Jg</string>
+    <string name="google_storage_bucket" translatable="false">connectwithgames-7156c.appspot.com</string>
+    <string name="project_id" translatable="false">connectwithgames-7156c</string>
+</resources>

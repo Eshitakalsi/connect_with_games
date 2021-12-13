@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="401e6ee3-52d3-4f4b-8f9f-8a17f5ad329d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/kotlin/com/example/ConnectWithGames/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/kotlin/com/example/ConnectWithGames/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Auth/AuthForm.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Auth/AuthForm.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Models/loggedInUserInfo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Models/loggedInUserInfo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Pickers/user_image_picker.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Pickers/user_image_picker.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/AddGameScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/AddGameScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/AuthScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/AuthScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/ChatScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/ChatScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/DisplayAvailableGames.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/DisplayAvailableGames.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/IndividualChatScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/IndividualChatScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/IntermediateMainScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/IntermediateMainScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/PhoneAuthScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/PhoneAuthScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/SearchFiltersScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/SearchFiltersScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/UserGamesScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/UserGamesScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/WelcomeScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/WelcomeScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/map_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/map_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Widgets/Chat/Messages.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Widgets/Chat/Messages.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Widgets/Chat/NewMessage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Widgets/Chat/NewMessage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Widgets/Chat/chatItem.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Widgets/Chat/chatItem.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Widgets/Chat/message_bubble.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Widgets/Chat/message_bubble.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Widgets/app_drawer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Widgets/app_drawer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Widgets/gameItem.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Widgets/gameItem.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Widgets/user_game.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Widgets/user_game.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21Q3Da0xXqJV3EQIsO0h6YALGd3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="401e6ee3-52d3-4f4b-8f9f-8a17f5ad329d" name="Default Changelist" comment="" />
+      <created>1637859364936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637859364936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="214" y="42" key="SettingsEditor" timestamp="1637863151181">
+      <screen x="0" y="25" width="1440" height="789" />
+    </state>
+    <state x="214" y="42" key="SettingsEditor/0.25.1440.789@0.25.1440.789" timestamp="1637863151181" />
+  </component>
+</project>

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/eshitakalsi/Desktop/JustDev/connect_with_games/build/image_picker/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml",
+            "map": [
+                {
+                    "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/39d921845324917a2757bbe4714039dc/core-1.1.0/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/eshitakalsi/Desktop/JustDev/connect_with_games/build/image_picker/intermediates/res/merged/debug/values-nb/values-nb.xml",
+            "map": [
+                {
+                    "source": "/Users/eshitakalsi/.gradle/caches/transforms-2/files-2.1/39d921845324917a2757bbe4714039dc/core-1.1.0/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
