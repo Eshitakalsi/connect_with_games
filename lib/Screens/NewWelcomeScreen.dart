@@ -1,6 +1,7 @@
 // ignore_for_file: deprecated_member_use
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:connect_with_games/Models/loggedInUserInfo.dart';
+import 'package:connect_with_games/Screens/UserGameHistory.dart';
 import 'package:connect_with_games/Widgets/app_drawer.dart';
 import 'package:flutter/material.dart';
 
@@ -45,6 +46,12 @@ class _NewWelcomeScreenState extends State<NewWelcomeScreen> {
       'image': 'assets/images/eight.jpeg',
       'description': 'See what you added!',
       'name': 'GO'
+    },
+    {
+      'title': 'Gaming History',
+      'image': 'assets/images/seven.jpeg',
+      'description': 'Check your gaming history!',
+      'name': 'HISTORY'
     }
   ];
 
@@ -56,6 +63,10 @@ class _NewWelcomeScreenState extends State<NewWelcomeScreen> {
 
   void addGames() {
     Navigator.pushNamed(context, AddGame.routeName);
+  }
+
+  void gamingHistory() {
+    Navigator.pushNamed(context, UserGameHistory.routeName);
   }
 
   Future<void> lookForGame() async {
@@ -297,6 +308,11 @@ class _NewWelcomeScreenState extends State<NewWelcomeScreen> {
                                                             .indexOf(options) ==
                                                         2) {
                                                       myGames();
+                                                    }
+                                                    if (_options
+                                                            .indexOf(options) ==
+                                                        3) {
+                                                      gamingHistory();
                                                     }
                                                   },
                                                 ),

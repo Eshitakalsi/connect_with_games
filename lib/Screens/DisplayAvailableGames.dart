@@ -89,7 +89,10 @@ class _DisplayAvailableGamesState extends State<DisplayAvailableGames> {
                             width: 0,
                           );
                         }
+                        print(gameDocs[index].id);
                         return GameItem(
+                            ss: gameDocs[index],
+                            gameId: gameDocs[index].id,
                             userId: gameDocs[index]['userId'],
                             userName: gameDocs[index]['userName'],
                             gameName: gameDocs[index]['gameName'],

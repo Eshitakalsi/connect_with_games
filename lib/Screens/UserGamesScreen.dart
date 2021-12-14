@@ -1,5 +1,4 @@
 import 'package:connect_with_games/Models/loggedInUserInfo.dart';
-import 'package:connect_with_games/Widgets/app_drawer.dart';
 import 'package:connect_with_games/Widgets/user_game.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
@@ -11,7 +10,6 @@ class UserGamesScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       extendBodyBehindAppBar: true,
-      drawer: AppDrawer(),
       appBar: AppBar(
         title: Text('Your Games'),
         iconTheme: IconThemeData(

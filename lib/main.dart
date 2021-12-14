@@ -1,6 +1,7 @@
 import 'package:connect_with_games/Screens/AboutScreen.dart';
 import 'package:connect_with_games/Screens/NewWelcomeScreen.dart';
 import 'package:connect_with_games/Screens/ProfileScreen.dart';
+import 'package:connect_with_games/Screens/UserGameHistory.dart';
 
 import './Models/loggedInUserInfo.dart';
 import './Screens/AuthScreen.dart';
@@ -106,8 +107,10 @@ class MyApp extends StatelessWidget {
                   }
                 },
               );
+            } else {
+              print("i am here");
+              return AuthScreen();
             }
-            return AuthScreen();
           },
         ),
         initialRoute: '/',
@@ -122,6 +125,7 @@ class MyApp extends StatelessWidget {
           ProfileScreen.routeName: (ctx) => ProfileScreen(),
           AboutScreen.routeName: (ctx) => AboutScreen(),
           HyperTrackQuickStart.routeName: (ctx) => HyperTrackQuickStart(),
+          UserGameHistory.routeName: (ctx) => UserGameHistory()
         },
       ),
     );

@@ -1,6 +1,5 @@
 import 'package:connect_with_games/Models/loggedInUserInfo.dart';
 import 'package:connect_with_games/Screens/AboutScreen.dart';
-import 'package:connect_with_games/Screens/HypertrackScreen.dart';
 import 'package:connect_with_games/Screens/NewWelcomeScreen.dart';
 import 'package:connect_with_games/Screens/ProfileScreen.dart';
 import 'package:connect_with_games/commons/theme.dart';
@@ -15,11 +14,6 @@ class AppDrawer extends StatelessWidget {
 
     LoggedInUserInfo.id = null;
     LoggedInUserInfo.name = null;
-
-    Navigator.popUntil(
-      context,
-      ModalRoute.withName("hello"),
-    );
   }
 
   @override
@@ -74,17 +68,6 @@ class AppDrawer extends StatelessWidget {
               onTap: () {
                 Navigator.of(context).pushReplacement(
                     MaterialPageRoute(builder: (ctx) => AboutScreen()));
-              },
-            ),
-            ListTile(
-              leading: Icon(
-                Icons.info_outline,
-                color: accentColor,
-              ),
-              title: Text("Location"),
-              onTap: () {
-                Navigator.of(context).push(MaterialPageRoute(
-                    builder: (ctx) => HyperTrackQuickStart()));
               },
             ),
             ListTile(

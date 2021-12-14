@@ -89,6 +89,8 @@ class _AddGameState extends State<AddGame> {
         'distanceRange': maxDistanceRadius,
         'playDate': playingTime,
         'searchindex': indexList,
+        'joinedUsers': [],
+        'requestedUsers': []
       });
 
       setState(() {

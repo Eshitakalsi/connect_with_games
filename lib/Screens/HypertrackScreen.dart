@@ -1,3 +1,7 @@
+// ignore_for_file: deprecated_member_use
+
+import 'package:connect_with_games/Models/loggedInUserInfo.dart';
+import 'package:connect_with_games/commons/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:hypertrack_plugin/hypertrack.dart';
 
@@ -34,7 +38,7 @@ class _HyperTrackQuickStartState extends State<HyperTrackQuickStart> {
   Future<void> initializeSdk() async {
     sdk = await HyperTrack.initialize(publishableKey);
     deviceId = await sdk.getDeviceId();
-    sdk.setDeviceName('USER NAME');
+    sdk.setDeviceName(LoggedInUserInfo.name);
     helper = NetworkHelper(
         url: 'https://v3.api.hypertrack.com',
         auth:
@@ -87,12 +91,12 @@ class _HyperTrackQuickStartState extends State<HyperTrackQuickStart> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      extendBodyBehindAppBar: true,
       appBar: AppBar(
+        title: Text('Live Location'),
         iconTheme: IconThemeData(
-          color: Color.fromRGBO(255, 255, 255, 1),
+          color: Color.fromRGBO(1, 1, 1, 1),
         ),
-        backgroundColor: Color(0x44000000),
+        backgroundColor: Color.fromRGBO(255, 255, 255, 1),
         elevation: 0,
       ),
       body: Column(
@@ -115,16 +119,18 @@ class _HyperTrackQuickStartState extends State<HyperTrackQuickStart> {
                 Text(
                   result,
                   style: TextStyle(
-                      color: isLink ? Colors.blue[900] : Colors.red[900],
-                      fontSize: 20.0,
-                      fontWeight: FontWeight.bold),
+                    color: isLink ? accentColor : Colors.red[900],
+                    fontFamily: 'Raleway',
+                    fontSize: 20.0,
+                    fontWeight: FontWeight.bold,
+                  ),
                 ),
               ],
             ),
           ),
           FlatButton(
             child: Text(
-              'Strat Tracking my Location',
+              'Start Tracking my Location',
             ),
             onPressed: startTracking,
           ),
@@ -136,6 +142,9 @@ class _HyperTrackQuickStartState extends State<HyperTrackQuickStart> {
             child: Text('End Tracking my Location'),
             onPressed: endTracking,
           ),
+          SizedBox(
+            height: 20,
+          )
         ],
       ),
     );
